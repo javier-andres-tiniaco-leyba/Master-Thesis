@@ -1,0 +1,26 @@
+Español:
+
+Se resolverán dos problemas de interés logístico-industrial empleando varios algoritmos evolutivos 
+de optimización multi-objetivo del estado del arte como NSGA-II, SMS-EMOA, etcétera. 
+
+Bloques: Se debe elegir un conjunto de bloques, cada uno de los cuales posee un valor (predicción de ventas) 
+y un peso (número de productos) de tal forma que la elección lleve a maximizar las ventas. 
+Deben elegirse como máximo n productos.
+
+Tiendas: Se desean abrir n nuevos locales en un país, de tal forma que se maximicen las ventas. 
+Se tienen las ventas en la página web para el mismo país y las coordenadas de los locales existentes. 
+Es necesario que los locales mantengan una distancia mínima entre ellos y las tiendas existentes.
+
+Summary:
+
+Two problems of interest from the field of industrial-logistics will be solved through the use of 
+state-of-the-art multi-objective evolutionary algorithms (MOEAs), such as NSGAII, SMS-EMOA, etc.
+
+Blocks: A set of blocks is given, in wich each one has a value (forecast of sales) and a weight 
+(number of products). A subset of those blocks must be choosen so that sales are maximized while 
+choosing exactly n products contained in the blocks choosen.
+
+Stores: A set of n stores will be opened in a country. The coordinates that maximizes sales must 
+be found while maintaning a minimun distance between both new and stablished stores.
+
+MOEAs will be used due to their capacity to handle non-linear constraints and mixed variable type problems.
