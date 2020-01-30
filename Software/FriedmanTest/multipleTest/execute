@@ -1,0 +1,1 @@
+java Friedman ../storesProblemAllAlgorithms.csv > output.tex
